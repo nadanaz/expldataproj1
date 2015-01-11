@@ -1,4 +1,15 @@
-## Introduction
+## From the student
+This is the first project from Exploratory Data Analysis of 
+John Hopskin University on Coursera. Scripts are in the folder `src`.
+Outputs (png) are in `figure` folder. The data should be in `data` folder,
+but it's too large for storing on github (below is downloading intructions).
+
+Below is the orignal text
+
+---
+
+##Introduction
+
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
