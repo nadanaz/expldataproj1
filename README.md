@@ -5,6 +5,7 @@ Outputs (png) are in `figure` folder. The data should be in `data` folder,
 but it's too large for storing on github (below is downloading intructions).
 
 September 2015 Update:
+
 I enroll this course once in April 2015 but have not completed it. So you may find the code is 5 months old. 
 
 Below is the orignal text
